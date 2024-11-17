@@ -28,7 +28,7 @@ body {
 
 .qr-code__component {
   background-color: var(--white);
-  border-radius: 1.6rem;
+  border-radius: 2rem;
   overflow: hidden;
   min-width: 32rem;
   max-width: 32rem;
@@ -36,9 +36,9 @@ body {
 }
 
 .qr-code__component__image {
-  border-radius: 1.2rem;
+  border-radius: 1.6rem;
   overflow: hidden;
-  height: 32rem;
+  height: 28rem;
   background-image: url("./images/image-qr-code.png");
   background-repeat: no-repeat;
   background-position: center;
